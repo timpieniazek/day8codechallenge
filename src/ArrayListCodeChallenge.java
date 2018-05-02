@@ -1,4 +1,7 @@
 import java.util.ArrayList;
+// Jonah Wooten & Tim Pieniazek
+// Day 8 Pre-lunch Code Challenge
+
 
 /*
  * Write a method that accepts an ArrayList of Strings and and int for an index
@@ -8,6 +11,7 @@ public class ArrayListCodeChallenge {
 
 	public static void main(String[] args) {
 		ArrayList<String> names = new ArrayList<>();
+		ArrayList<LinkedListDemo> lld = new ArrayList<>();
 		names.add("Vicky");
 		names.add("Brent");
 		names.add("Julhasur");
